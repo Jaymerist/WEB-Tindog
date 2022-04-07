@@ -23,7 +23,7 @@ Images
 The Images folder contains what it's named. It has all the images used 
 in the website. 
 
-This website was made possible with Dr. Angelas' web development course
+This website was made possible with Dr. Angela's web development course
 
 Creator Emails:
   jadedragon330@gmail.com
@@ -31,6 +31,11 @@ Creator Emails:
 
 file creation date:
 January 23, 2021
+
+last update on Github:
+April 7, 2022
+
+There are no plans for updating this repository's code 
 
 
 
