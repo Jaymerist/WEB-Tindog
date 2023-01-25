@@ -26,8 +26,7 @@ in the website.
 This website was made possible with Dr. Angela's web development course
 
 Creator Emails:
-  jadedragon330@gmail.com
-  maaznavin@gmail.com
+  angelicakamiss@gmail.com
 
 file creation date:
 May 23, 2021
